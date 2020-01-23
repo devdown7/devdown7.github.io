@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Test<\title>
-</head>
-<body>
-     Hello
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  </head>
+  <body>
+  
+  </body>
 </html>
